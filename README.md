@@ -20,9 +20,27 @@ Delivery-Flowers is a web project concept for a flower-delivery marketplace. The
 - 📱 Responsive interface
 - 🗄️ MySQL database
 
-## 🧱 Architecture
+## 🧩 Architecture
 
-The project uses a traditional PHP/MySQL architecture without a frontend framework, with JavaScript used for interactive interface features.
+The project follows a traditional PHP/MySQL architecture without a frontend framework. JavaScript is used for interactive interface features, while PDO is used for database access.
+
+```text
+Delivery-Flowers/
+├── dashboard/
+├── includes/
+├── admin/
+├── assets/
+├── index.php
+└── shop pages / product pages
+```
+
+## 🎯 Project Goals
+
+- Build a marketplace structure around independent flower shops
+- Practice relational database design
+- Implement customer and order workflows
+- Explore shop administration and product management
+- Improve responsive UI development with PHP and JavaScript
 
 ## 📌 Status
 
