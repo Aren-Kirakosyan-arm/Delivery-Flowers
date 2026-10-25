@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aren-kirakosyan-arm.github.io/Delivery-Flowers/sitemap.xml
